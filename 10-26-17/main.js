@@ -45,7 +45,7 @@ while(balance < 1000000){
   years ++;
 }
 
-console.log(years);
+console.log("You will be a millionaire in " + years + "!");
 
 //iterators
 
